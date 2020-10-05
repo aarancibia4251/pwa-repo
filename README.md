@@ -33,10 +33,8 @@ Requisitos Mínimos para que una aplicación sea PWA
     - Rápidez
     - Experiencia de usuario integrada.
     - Experiencia confiable.
-    - Compromiso
 - [Desventajas](2-pruebas-unitarias/2-2-desventajas-pruebas-unitarias.md)
     - Soporte de navegador cruzado
-    - Funcionalidad limitada.
     - Legitimidad limitada.
 
 
